@@ -43,7 +43,7 @@
 
 #### - Andi Nur Fadilah / 2109106015
 <!-- [![wendra](https://github.com/kmyk/online-judge-template-generator/workflows/test/badge.svg)](https://github.com/wendra08) -->
-- Sebagai yang membuat dan mengatur Data Visualization and Data Analyst 📊 
+- Sebagai yang membuat dan mengatur Data Collecting 🗂️, dan Data Visualization and Data Analyst 📊 
 
 #### - Adlina Safa Sephia Putri / 2109106021
 <!-- [![sukoshi2](https://github.com/kmyk/online-judge-template-generator/workflows/test/badge.svg)](https://github.com/Sukoshi2) -->
