@@ -1,6 +1,6 @@
 # PA_KB
 <div align="center">
-    <h1>PROYEK AKHIR<br><b>Garbage Classification 🗑️</b></h1><br>
+    <h1>PROYEK AKHIR<br><b>Garbage Classification 🗑️</b><br><b>Kecerdasan Buatan</b></h1><br>
     <div>
         <a>
             <img src="Images/unmul.png" height="150">
@@ -52,5 +52,12 @@
 - Sebagai yang membuat dan mengatur bagian 
 <!-- Data Visualization and Data Analyst 📊 -->
 
+## Deskripsi
 
-
+## 1. Penjelasan DataSet
+[Link Dataset GuitarChordsClassification](https://drive.google.com/drive/folders/1h4kLXmCjUdlykKrkz9aZzFV_LxjnrMZ8)
+[Link Dataset Klasifikasi Sampah](https://drive.google.com/drive/folders/19n4_o_hunrj9GS1fPXFMMBPSwbEmhI7G?usp=sharing)
+Dataset Klasifikasi Sampah berisi 3 klasifikasi, yaitu :  
+- kaca (491), , 
+- kertas (584), dan 
+- plastik (472).
