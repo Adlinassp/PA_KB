@@ -52,11 +52,44 @@
 - Sebagai yang membuat dan mengatur bagian 
 <!-- Data Visualization and Data Analyst 📊 -->
 
-## Deskripsi
-
 ## 1. Penjelasan DataSet
-[Link Dataset Klasifikasi Sampah](https://drive.google.com/drive/folders/19n4_o_hunrj9GS1fPXFMMBPSwbEmhI7G?usp=sharing)
-Dataset Klasifikasi Sampah berisi 3 klasifikasi, yaitu :  
-- kaca (491), , 
-- kertas (584), dan 
-- plastik (472).
+Link Sumber Dataset Klasifikasi Sampah yang berasal dari [kaggle](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification/code)<br> 
+Link Dataset Klasifikasi Sampah yang telah diperbarui disimpan [Disini](https://drive.google.com/drive/folders/19n4_o_hunrj9GS1fPXFMMBPSwbEmhI7G?usp=sharing)<br>
+
+Kumpulan data yang berisikan gambar berbagai jenis sampah namun kami hanya mengambil 3 jenis sampah, yaitu kaca, kertas, dan plastik. Data citra tersebut kemudian dibagi menjadi 3 kelas berdasarkan kondisinya, yaitu 'glass', 'paper', dan 'plastic' ke dalam folder yang terpisah, yakni train, test, dan val dengan perbandingan 7:1:2.
+
+<!-- Tiap-tiap gambar berukuran 227 x 227 pixel dengan penggunaan warna RGB.  -->
+
+<!-- Dataset dibagi menjadi berberapa Direktori atau Folder, dimana sistem akan mengenali atau klasifikasi mana gambar yang merupakan 'kaca', 'kertas', dan 'plastik'. -->
+
+## 2. Penjelasan Project
+Projek akhir ini membahas mengenai model kecerdasan buatan dalam Pemilahan sampah yang melibatkan pemisahan sampah menurut cara penanganan atau pengolahannya. Penting untuk didaur ulang karena beberapa bahan dapat didaur ulang dan yang lainnya tidak.
+
+
+
+## 3. Table of Content
+- Mengimport Library yang dibutuhkan 
+
+- Data Collecting
+A. Train
+B. Validation 
+C. Test
+
+- Data Preprocessing
+A. Augmentasi
+
+- Data Analisis dan Visualisasi
+A. Visualisasi Dataset
+
+- DATA MODELLING
+A. Callback
+B. Optimasi Model
+C. Fitting Training Model
+
+- EVALUASI
+A. Membandingkan perkembangan epoch
+B. Pratinjau Hasil Prediksi : 
+  - Visualisasi Gambar yang Diprediksi Benar
+  - Visualisasi Gambar yang Diprediksi Salah
+
+Save Model
