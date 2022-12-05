@@ -36,7 +36,7 @@
     </div>
 </div>
 
-#### - Rezky Nur Sya'ban / 22109106009
+#### - Rezky Nur Sya'ban / 2109106009
 <!-- [![raymond](https://github.com/kmyk/online-judge-template-generator/workflows/test/badge.svg)](https://github.com/Raymond211101) -->
 - Sebagai Ketua Kelompok
 - Sebagai yang membuat dan mengatur bagian Evaluasi 🗃️
