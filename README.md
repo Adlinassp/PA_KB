@@ -75,21 +75,26 @@ A. Train <br>
 B. Validation <br>
 C. Test <br>
 <br>
+
 - Data Preprocessing <br>
 A. Augmentasi <br>
 <br>
+
 - Data Analisis dan Visualisasi <br>
 A. Visualisasi Dataset<br>
 <br>
+
 - DATA MODELLING <br>
 A. Callback <br>
 B. Optimasi Model <br>
 C. Fitting Training Model <br>
 <br>
+
 - EVALUASI <br>
 A. Membandingkan perkembangan epoch <br>
 B. Pratinjau Hasil Prediksi :  <br>
   - Visualisasi Gambar yang Diprediksi Benar <br>
   - Visualisasi Gambar yang Diprediksi Salah <br>
 <br>
-Save Model
+
+- Save Model
