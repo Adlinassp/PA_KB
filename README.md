@@ -68,28 +68,28 @@ Projek akhir ini membahas mengenai model kecerdasan buatan dalam Pemilahan sampa
 
 
 ## 3. Table of Content
-- Mengimport Library yang dibutuhkan 
+- Mengimport Library yang dibutuhkan <br>
 
-- Data Collecting
-A. Train
-B. Validation 
-C. Test
-
-- Data Preprocessing
-A. Augmentasi
-
-- Data Analisis dan Visualisasi
-A. Visualisasi Dataset
-
-- DATA MODELLING
-A. Callback
-B. Optimasi Model
-C. Fitting Training Model
-
-- EVALUASI
-A. Membandingkan perkembangan epoch
-B. Pratinjau Hasil Prediksi : 
-  - Visualisasi Gambar yang Diprediksi Benar
-  - Visualisasi Gambar yang Diprediksi Salah
-
+- Data Collecting <br>
+A. Train <br>
+B. Validation <br>
+C. Test <br>
+<br>
+- Data Preprocessing <br>
+A. Augmentasi <br>
+<br>
+- Data Analisis dan Visualisasi <br>
+A. Visualisasi Dataset<br>
+<br>
+- DATA MODELLING <br>
+A. Callback <br>
+B. Optimasi Model <br>
+C. Fitting Training Model <br>
+<br>
+- EVALUASI <br>
+A. Membandingkan perkembangan epoch <br>
+B. Pratinjau Hasil Prediksi :  <br>
+  - Visualisasi Gambar yang Diprediksi Benar <br>
+  - Visualisasi Gambar yang Diprediksi Salah <br>
+<br>
 Save Model
