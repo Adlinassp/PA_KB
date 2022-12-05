@@ -24,7 +24,8 @@
 
 <div align="center">
     <div>
-        <p><h4>Kami dari Kelompok 7 Kelas A1 2021 adalah Praktikan yang membuat Tugas Proyek Akhir Praktikum Kecerdasan Buatan  Kelompok Kami yang berangottakan,</h4></p>
+        <p><h4>Disusun Oleh : </h4></p>
+        <p><h4>Kelompok 7 Kelas A1 2021</h4></p>
         <div>
             <p><h3>
                 Rezky Nur Sya'ban 2109106009 (Ketua)<br>
