@@ -35,4 +35,21 @@
     </div>
 </div>
 
+#### - Rezky Nur Sya'ban / 22109106009
+<!-- [![raymond](https://github.com/kmyk/online-judge-template-generator/workflows/test/badge.svg)](https://github.com/Raymond211101) -->
+- Sebagai Ketua Kelompok
+- Sebagai yang membuat dan mengatur bagian 
+<!-- Pre-Processing ⌛ -->
+
+#### - Andi Nur Fadilah / 2109106015
+<!-- [![wendra](https://github.com/kmyk/online-judge-template-generator/workflows/test/badge.svg)](https://github.com/wendra08) -->
+- Sebagai yang membuat dan mengatur bagian 
+<!-- Modelling 🔍 -->
+
+#### - Adlina Safa Sephia Putri / 2109106021
+<!-- [![sukoshi2](https://github.com/kmyk/online-judge-template-generator/workflows/test/badge.svg)](https://github.com/Sukoshi2) -->
+- Sebagai yang membuat dan mengatur bagian 
+<!-- Data Visualization and Data Analyst 📊 -->
+
+
 
