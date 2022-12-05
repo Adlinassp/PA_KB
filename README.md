@@ -55,7 +55,6 @@
 ## Deskripsi
 
 ## 1. Penjelasan DataSet
-[Link Dataset GuitarChordsClassification](https://drive.google.com/drive/folders/1h4kLXmCjUdlykKrkz9aZzFV_LxjnrMZ8)
 [Link Dataset Klasifikasi Sampah](https://drive.google.com/drive/folders/19n4_o_hunrj9GS1fPXFMMBPSwbEmhI7G?usp=sharing)
 Dataset Klasifikasi Sampah berisi 3 klasifikasi, yaitu :  
 - kaca (491), , 
