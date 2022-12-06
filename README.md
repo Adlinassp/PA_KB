@@ -72,25 +72,25 @@ Projek akhir ini membahas mengenai model kecerdasan buatan dalam Pemilahan sampa
        - [A.Augmentasi](#augmentasi)<br>
        - [B.Visualisasi Augmentasi](#visualisasi-augmentasi)<br>
 - [Data Analyst dan Visualization](#visualisasi-data)<br>
-        [A.Meta Data](#meta-data)<br>
-        [B.Visualisasi](#visualisasi)<br>
-           [1.Dataset(Preview)](#preview)<br>
-           [2.Data Training](#train-validation-test)<br>
-    [Modelling](#modelling)<br>
-        [A.Arsitektur Model](#arsitektur-model)<br>
-        [B.Parameter Layer](#parameter-layer)<br>
-        [C.Konfigurasi Model](#konfigurasi-model)<br>
-           [1.Optimasi Model](#optimasi-model)<br>
-           [2.Callback](#callback)<br>
-        [D.Training Model](#training-model)<br>
-    [Evaluasi](#evaluasi)<br>
-        [A.Evaluasi Test Set](#test-set)<br>
-        [B. Visualisasi Hasil Training (Train dan Validaton)](#accuracy)<br>
-           [1. Membandingkan perkembangan epoch Train vs. Validation Accuracy](#train-epoch)<br>
-        [C. Pratinjau Prediksi](#prediksi)<br>
-           [1. Pratinjau Hasil Prediksi](#hasil-prediksi)<br>
-           [2. Pratinjau Kesalahan Prediksi](#hasil-prediksi-salah)<br>
-    [Save Model](#save)
+       - [A.Meta Data](#meta-data)<br>
+       - [B.Visualisasi](#visualisasi)<br>
+          - [1.Dataset(Preview)](#preview)<br>
+          - [2.Data Training](#train-validation-test)<br>
+- [Modelling](#modelling)<br>
+       - [A.Arsitektur Model](#arsitektur-model)<br>
+       - [B.Parameter Layer](#parameter-layer)<br>
+       - [C.Konfigurasi Model](#konfigurasi-model)<br>
+          - [1.Optimasi Model](#optimasi-model)<br>
+          - [2.Callback](#callback)<br>
+       - [D.Training Model](#training-model)<br>
+- [Evaluasi](#evaluasi)<br>
+       - [A.Evaluasi Test Set](#test-set)<br>
+       - [B. Visualisasi Hasil Training (Train dan Validaton)](#accuracy)<br>
+          - [1. Membandingkan perkembangan epoch Train vs. Validation Accuracy](#train-epoch)<br>
+       - [C. Pratinjau Prediksi](#prediksi)<br>
+          - [1. Pratinjau Hasil Prediksi](#hasil-prediksi)<br>
+          - [2. Pratinjau Kesalahan Prediksi](#hasil-prediksi-salah)<br>
+- [Save Model](#save)
 
 
 <!-- - Data Collecting <br>
