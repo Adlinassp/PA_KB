@@ -70,10 +70,11 @@ C. Test <br>
 
 - Data Preprocessing <br>
 A. Augmentasi <br>
+B. Visualisasi Augmentasi<br>
 <br>
 
 - Data Analisis dan Visualisasi <br>
-A. Meta Data
+A. Meta Data <br>
 B. Visualisasi<br>
 <br>
 
