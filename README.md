@@ -35,6 +35,10 @@
         </div>
     </div>
 </div>
+<br>
+<div align="center">
+<h1>JOB DESK<h1>
+</div>
 
 #### - Rezky Nur Sya'ban / 2109106009
 <!-- [![raymond](https://github.com/kmyk/online-judge-template-generator/workflows/test/badge.svg)](https://github.com/Raymond211101) -->
@@ -96,3 +100,10 @@ B. Pratinjau Hasil Prediksi :  <br>
 <br>
 
 - Save Model
+<br>
+<div align="center">
+<h1>AKHIR DARI README<br><b>Garbage Classification 🗑️</b><br><b>Kecerdasan Buatan</b></h1><br>
+</div>
+<div align="center">
+<h1>Terimakasih atas perhatiannya<br><b>Semoga bermanfaat untuk semua<h1><br>
+</div>
