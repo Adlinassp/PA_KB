@@ -5,13 +5,6 @@
         <a>
             <img src="Images/unmul.png" height="150">
         </a>
-        <!-- <p><h2>Presented for :</h2></p>
-        <a>
-            <img src="Images/ascii.png" height="100">
-        </a>
-        <a>
-            <img src="Images/labif.png" alt="unmul" height="100">
-        </a><br><br> -->
         <div align="center">
             <p style="font-size: 18px;">
                 Program Studi Informatika<br>
@@ -41,16 +34,13 @@
 </div>
 
 #### - Rezky Nur Sya'ban / 2109106009
-<!-- [![raymond](https://github.com/kmyk/online-judge-template-generator/workflows/test/badge.svg)](https://github.com/Raymond211101) -->
 - Sebagai Ketua Kelompok
 - Sebagai yang membuat dan mengatur bagian Evaluasi 🗃️
 
 #### - Andi Nur Fadilah / 2109106015
-<!-- [![wendra](https://github.com/kmyk/online-judge-template-generator/workflows/test/badge.svg)](https://github.com/wendra08) -->
 - Sebagai yang membuat dan mengatur Data Collecting 🗂️, dan Data Visualization and Data Analyst 📊 
 
 #### - Adlina Safa Sephia Putri / 2109106021
-<!-- [![sukoshi2](https://github.com/kmyk/online-judge-template-generator/workflows/test/badge.svg)](https://github.com/Sukoshi2) -->
 - Sebagai yang membuat dan mengatur bagian bagian re-Processing ⌛ dan PModelling 🔍
 
 
@@ -83,7 +73,8 @@ A. Augmentasi <br>
 <br>
 
 - Data Analisis dan Visualisasi <br>
-A. Visualisasi Dataset<br>
+A. Meta Data
+B. Visualisasi<br>
 <br>
 
 - DATA MODELLING <br>
