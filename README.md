@@ -60,40 +60,40 @@ Projek akhir ini membahas mengenai model kecerdasan buatan dalam Pemilahan sampa
 
 
 ## 3. Table of Content
-"## Table Of Content\n",<br>
-    "* [Import Library](#import)\n",<br>
-    "* [Data Collecting](#data-collecting)\n",<br>
-    "    * [Data Split](#data-split)\n",<br>
-    "    * [Memuat Dataset](#memuat-dataset)\n",<br>
-    "       * [1.Train](#train)\n",<br>
-            * [2.Validation](#validation)\n",<br>
-            * [3.Test](#test)\n",<br>
-    "* [Data Preprocessing](#data-preprocessing)\n",<br>
-    "    * [A.Augmentasi](#augmentasi)\n",<br>
-    "    * [B.Visualisasi Augmentasi](#visualisasi-augmentasi)\n",<br>
-    "* [Data Analyst dan Visualization](#visualisasi-data)\n",<br>
-    "    * [A.Meta Data](#meta-data)\n",<br>
-    "    * [B.Visualisasi](#visualisasi)\n",<br>
-    "       * [1.Dataset(Preview)](#preview)\n",<br>
-    "       * [2.Data Training](#train-validation-test)\n",<br>
-    "* [Modelling](#modelling)\n",<br>
-    "    * [A.Arsitektur Model](#arsitektur-model)\n",<br>
-    "    * [B.Parameter Layer](#parameter-layer)\n",<br>
-    "    * [C.Konfigurasi Model](#konfigurasi-model)\n",<br>
-    "       * [1.Optimasi Model](#optimasi-model)\n",<br>
-    "       * [2.Callback](#callback)\n",<br>
-    "    * [D.Training Model](#training-model)\n",<br>
-    "* [Evaluasi](#evaluasi)\n",<br>
-    "    * [A.Evaluasi Test Set](#test-set)\n",<br>
-    "    * [B. Visualisasi Hasil Training (Train dan Validaton)](#accuracy)\n",<br>
-    "       * [1. Membandingkan perkembangan epoch Train vs. Validation Accuracy](#train-epoch)\n",<br>
-    "    * [C. Pratinjau Prediksi](#prediksi)\n",<br>
-    "       * [1. Pratinjau Hasil Prediksi](#hasil-prediksi)\n",<br>
-    "       * [2. Pratinjau Kesalahan Prediksi](#hasil-prediksi-salah)\n",<br>
-    "* [Save Model](#save)"
+## Table Of Content
+[Import Library](#import)<br>
+    [Data Collecting](#data-collecting)<br>
+        [Data Split](#data-split)<br>
+        [Memuat Dataset](#memuat-dataset)<br>
+            [1.Train](#train)<br>
+            [2.Validation](#validation)<br>
+            [3.Test](#test)<br>
+    [Data Preprocessing](#data-preprocessing)<br>
+        [A.Augmentasi](#augmentasi)<br>
+        [B.Visualisasi Augmentasi](#visualisasi-augmentasi)<br>
+    [Data Analyst dan Visualization](#visualisasi-data)<br>
+        [A.Meta Data](#meta-data)<br>
+        [B.Visualisasi](#visualisasi)<br>
+           [1.Dataset(Preview)](#preview)<br>
+           [2.Data Training](#train-validation-test)<br>
+    [Modelling](#modelling)<br>
+        [A.Arsitektur Model](#arsitektur-model)<br>
+        [B.Parameter Layer](#parameter-layer)<br>
+        [C.Konfigurasi Model](#konfigurasi-model)<br>
+           [1.Optimasi Model](#optimasi-model)<br>
+           [2.Callback](#callback)<br>
+        [D.Training Model](#training-model)<br>
+    [Evaluasi](#evaluasi)<br>
+        [A.Evaluasi Test Set](#test-set)<br>
+        [B. Visualisasi Hasil Training (Train dan Validaton)](#accuracy)<br>
+           [1. Membandingkan perkembangan epoch Train vs. Validation Accuracy](#train-epoch)<br>
+        [C. Pratinjau Prediksi](#prediksi)<br>
+           [1. Pratinjau Hasil Prediksi](#hasil-prediksi)<br>
+           [2. Pratinjau Kesalahan Prediksi](#hasil-prediksi-salah)<br>
+    [Save Model](#save)"
 
 
-- Data Collecting <br>
+<!-- - Data Collecting <br>
 A. Train <br>
 B. Validation <br>
 C. Test <br>
@@ -120,7 +120,7 @@ A. Membandingkan perkembangan epoch <br>
 B. Pratinjau Hasil Prediksi :  <br>
   - Visualisasi Gambar yang Diprediksi Benar <br>
   - Visualisasi Gambar yang Diprediksi Salah <br>
-<br>
+<br> -->
 
 <br>
 <div align="center">
