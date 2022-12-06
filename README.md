@@ -61,17 +61,17 @@ Projek akhir ini membahas mengenai model kecerdasan buatan dalam Pemilahan sampa
 
 ## 3. Table of Content
 ## Table Of Content
-[Import Library](#import)<br>
-    [Data Collecting](#data-collecting)<br>
-        [Data Split](#data-split)<br>
-        [Memuat Dataset](#memuat-dataset)<br>
-            [1.Train](#train)<br>
-            [2.Validation](#validation)<br>
-            [3.Test](#test)<br>
-    [Data Preprocessing](#data-preprocessing)<br>
-        [A.Augmentasi](#augmentasi)<br>
-        [B.Visualisasi Augmentasi](#visualisasi-augmentasi)<br>
-    [Data Analyst dan Visualization](#visualisasi-data)<br>
+- [Import Library](#import)<br>
+   - [Data Collecting](#data-collecting)<br>
+       - [Data Split](#data-split)<br>
+       - [Memuat Dataset](#memuat-dataset)<br>
+           - [1.Train](#train)<br>
+           - [2.Validation](#validation)<br>
+           - [3.Test](#test)<br>
+- [Data Preprocessing](#data-preprocessing)<br>
+       - [A.Augmentasi](#augmentasi)<br>
+       - [B.Visualisasi Augmentasi](#visualisasi-augmentasi)<br>
+- [Data Analyst dan Visualization](#visualisasi-data)<br>
         [A.Meta Data](#meta-data)<br>
         [B.Visualisasi](#visualisasi)<br>
            [1.Dataset(Preview)](#preview)<br>
@@ -90,7 +90,7 @@ Projek akhir ini membahas mengenai model kecerdasan buatan dalam Pemilahan sampa
         [C. Pratinjau Prediksi](#prediksi)<br>
            [1. Pratinjau Hasil Prediksi](#hasil-prediksi)<br>
            [2. Pratinjau Kesalahan Prediksi](#hasil-prediksi-salah)<br>
-    [Save Model](#save)"
+    [Save Model](#save)
 
 
 <!-- - Data Collecting <br>
