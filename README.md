@@ -60,7 +60,38 @@ Projek akhir ini membahas mengenai model kecerdasan buatan dalam Pemilahan sampa
 
 
 ## 3. Table of Content
-- Mengimport Library yang dibutuhkan <br>
+"## Table Of Content\n",
+    "* [Import Library](#import)\n",
+    "* [Data Collecting](#data-collecting)\n",
+    "    * [Data Split](#data-split)\n",
+    "    * [Memuat Dataset](#memuat-dataset)\n",
+    "       * [1.Train](#train)\n",
+            * [2.Validation](#validation)\n",
+            * [3.Test](#test)\n",
+    "* [Data Preprocessing](#data-preprocessing)\n",
+    "    * [A.Augmentasi](#augmentasi)\n",
+    "    * [B.Visualisasi Augmentasi](#visualisasi-augmentasi)\n",
+    "* [Data Analyst dan Visualization](#visualisasi-data)\n",
+    "    * [A.Meta Data](#meta-data)\n",
+    "    * [B.Visualisasi](#visualisasi)\n",
+    "       * [1.Dataset(Preview)](#preview)\n",
+    "       * [2.Data Training](#train-validation-test)\n",
+    "* [Modelling](#modelling)\n",
+    "    * [A.Arsitektur Model](#arsitektur-model)\n",
+    "    * [B.Parameter Layer](#parameter-layer)\n",
+    "    * [C.Konfigurasi Model](#konfigurasi-model)\n",
+    "       * [1.Optimasi Model](#optimasi-model)\n",
+    "       * [2.Callback](#callback)\n",
+    "    * [D.Training Model](#training-model)\n",
+    "* [Evaluasi](#evaluasi)\n",
+    "    * [A.Evaluasi Test Set](#test-set)\n",
+    "    * [B. Visualisasi Hasil Training (Train dan Validaton)](#accuracy)\n",
+    "       * [1. Membandingkan perkembangan epoch Train vs. Validation Accuracy](#train-epoch)\n",
+    "    * [C. Pratinjau Prediksi](#prediksi)\n",
+    "       * [1. Pratinjau Hasil Prediksi](#hasil-prediksi)\n",
+    "       * [2. Pratinjau Kesalahan Prediksi](#hasil-prediksi-salah)\n",
+    "* [Save Model](#save)"
+
 
 - Data Collecting <br>
 A. Train <br>
@@ -91,7 +122,6 @@ B. Pratinjau Hasil Prediksi :  <br>
   - Visualisasi Gambar yang Diprediksi Salah <br>
 <br>
 
-- Save Model
 <br>
 <div align="center">
 <h1>AKHIR DARI README<br><b>Garbage Classification 🗑️</b><br><b>Kecerdasan Buatan</b></h1><br>
