@@ -64,7 +64,7 @@ Projek akhir ini membahas mengenai model kecerdasan buatan dalam Pemilahan sampa
 - [Import Library](#import)<br>
 - [Data Collecting](#data-collecting)<br>
        - [A. Data Split](#data-split)<br>
-       - [B. Memuat Dataset](#memuat-dataset)<br><br>
+       - [B. Memuat Dataset](#memuat-dataset)<br>
                 - [1. Train](#train)<br>
                 - [2. Validation](#validation)<br>
                 - [3. Test](#test)<br>
